@@ -20,9 +20,9 @@ namespace RabbitMQConsumer
                 Console.WriteLine(" [*] Waiting for messages.");
 
                 var consumer = new EventingBasicConsumer(channel);
-                consumer.Received += (model, ea) =>
+                consumer.Received += (model, msg) =>
                 {
-                    var body = ea.Body.ToArray();
+                    var body = msg.Body.ToArray();
                     var message = Encoding.UTF8.GetString(body);
                     System.Console.WriteLine($"Mensagem recebida: {message}");
                 };
