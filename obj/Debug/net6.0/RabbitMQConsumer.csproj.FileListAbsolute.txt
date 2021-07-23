@@ -1,0 +1,17 @@
+C:\Dev\ProjetosTeste\RabbitMQConsumer\bin\Debug\net6.0\RabbitMQConsumer.exe
+C:\Dev\ProjetosTeste\RabbitMQConsumer\bin\Debug\net6.0\RabbitMQConsumer.deps.json
+C:\Dev\ProjetosTeste\RabbitMQConsumer\bin\Debug\net6.0\RabbitMQConsumer.runtimeconfig.json
+C:\Dev\ProjetosTeste\RabbitMQConsumer\bin\Debug\net6.0\RabbitMQConsumer.dll
+C:\Dev\ProjetosTeste\RabbitMQConsumer\bin\Debug\net6.0\ref\RabbitMQConsumer.dll
+C:\Dev\ProjetosTeste\RabbitMQConsumer\bin\Debug\net6.0\RabbitMQConsumer.pdb
+C:\Dev\ProjetosTeste\RabbitMQConsumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Dev\ProjetosTeste\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.csproj.AssemblyReference.cache
+C:\Dev\ProjetosTeste\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ProjetosTeste\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.AssemblyInfoInputs.cache
+C:\Dev\ProjetosTeste\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.AssemblyInfo.cs
+C:\Dev\ProjetosTeste\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.csproj.CoreCompileInputs.cache
+C:\Dev\ProjetosTeste\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.csproj.CopyComplete
+C:\Dev\ProjetosTeste\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.dll
+C:\Dev\ProjetosTeste\RabbitMQConsumer\obj\Debug\net6.0\ref\RabbitMQConsumer.dll
+C:\Dev\ProjetosTeste\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.pdb
+C:\Dev\ProjetosTeste\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.genruntimeconfig.cache
