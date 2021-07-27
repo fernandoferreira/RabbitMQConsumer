@@ -2,7 +2,8 @@
 
 This is a project created for learning purpose.
 
-To run this application, you must to follow the bellow steps. 
+To run this application, you must to follow the follow steps: 
+
 1 - Instal the Earlang (last version) that can be found on this link: https://www.erlang.org/downloads
 2 - Install the RabbitMQ Server. This will run on localhost and allow you to create and test any kind of queue/message application.
     You can download the server here: https://www.rabbitmq.com/download.html
