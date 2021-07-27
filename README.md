@@ -14,7 +14,8 @@ Note: The server has a portal that can be used to check everything about the Exc
 
 Getting access to the portal:
 
-1 - Go to the "sbin" folder in the installation path, as bellow: C:\Program Files\RabbitMQ Server\rabbitmq_server-3.8.19\sbin>
+1 - Go to the "sbin" folder in the installation path, as bellow: 
+C:\Program Files\RabbitMQ Server\rabbitmq_server-3.8.19\sbin>
 
 2 - Then, run the follow command: rabbitmq-plugins enable rabbitmq_management
 
